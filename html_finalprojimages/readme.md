@@ -1,3 +1,6 @@
+![python](https://github.com/07jerry/My_Portifolio/assets/110556610/f04990b7-71da-408c-96e9-3af82e109547)
+![png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue](https://github.com/07jerry/My_Portifolio/assets/110556610/0d6f3651-54c2-4895-bdc6-166640fa5522)
+![png-transparent-c-logo-c](https://github.com/07jerry/My_Portifolio/assets/110556610/65706d11-c3b4-433f-9f98-5915066de2dc)
 ![CSS3](https://github.com/07jerry/My_Portifolio/assets/110556610/de7602fa-1f88-475a-8b0f-94644192f605)
 ![checkmark--outline](https://github.com/07jerry/My_Portifolio/assets/110556610/5046a93b-423b-4e43-b243-e7556d8968ca)
 ![envelope](https://github.com/07jerry/My_Portifolio/assets/110556610/590fede7-2744-40e3-8113-3f78b7e1fc3d)
