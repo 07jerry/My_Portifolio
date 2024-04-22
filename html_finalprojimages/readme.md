@@ -1,1 +1,13 @@
+![CSS3](https://github.com/07jerry/My_Portifolio/assets/110556610/de7602fa-1f88-475a-8b0f-94644192f605)
+![checkmark--outline](https://github.com/07jerry/My_Portifolio/assets/110556610/5046a93b-423b-4e43-b243-e7556d8968ca)
+![envelope](https://github.com/07jerry/My_Portifolio/assets/110556610/590fede7-2744-40e3-8113-3f78b7e1fc3d)
+![flash](https://github.com/07jerry/My_Portifolio/assets/110556610/5e1f92b8-0eec-49f8-89b3-fd2da2ff0941)
+![home](https://github.com/07jerry/My_Portifolio/assets/110556610/c3df086d-9b15-4a72-afcf-3bd9e3804241)
+![html5](https://github.com/07jerry/My_Portifolio/assets/110556610/74d159a9-331f-4d76-bd76-a0ff96a49137)
+![java](https://github.com/07jerry/My_Portifolio/assets/110556610/9beb8d27-7c26-4483-8b87-38b648b6c1a6)
+![js](https://github.com/07jerry/My_Portifolio/assets/110556610/e092fbe3-01bf-4904-bab8-18f335107406)
+![node](https://github.com/07jerry/My_Portifolio/assets/110556610/ce9abe0c-d1e5-4ca5-816e-f42a0a00dd48)
+![phone](https://github.com/07jerry/My_Portifolio/assets/110556610/1dcd3288-a003-416b-94c5-fc81ed993e88)
+![react](https://github.com/07jerry/My_Portifolio/assets/110556610/1e98fab2-5172-40c6-b5a1-12e78782b485)
+![waving-hand](https://github.com/07jerry/My_Portifolio/assets/110556610/f6e04ca5-c48e-4532-85c4-30e5c86b671a)
 This directory has all the images used in final_project
